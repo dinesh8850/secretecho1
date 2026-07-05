@@ -225,9 +225,9 @@ npm test
 
 Computer Science Graduate | AI & Full Stack Developer
 
-LinkedIn: YOUR_LINKEDIN
+LinkedIn: https://www.linkedin.com/in/dinesh-singh-4068b7253/
 
-GitHub: https://github.com/YOUR_USERNAME
+GitHub: https://github.com/dinesh8850
 
 ---
 
